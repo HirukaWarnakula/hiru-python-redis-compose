@@ -23,6 +23,6 @@ The Python application and Redis database run in separate containers but communi
 3. Access the application at:http://localhost:5001
 
 📸 Preview
-[output](/app-preview.jpg)
+📸 Preview ![output](app-preview.jpg)
 
 Developed by Hiruka Warnakula - Aspiring DevOps Engineer.
