@@ -1,3 +1,5 @@
+# Dynamic Python-Redis Stack with Docker Compose 🚀🐍
+
 This project demonstrates a full-stack containerized architecture. It uses a **Python (Flask)** backend that connects to a **Redis** database to track and display page visit counts.
 
 ## 🛠️ Tech Stack
