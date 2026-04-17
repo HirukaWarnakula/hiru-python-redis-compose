@@ -1,0 +1,12 @@
+services:
+  my-app:
+    build: .
+    ports:
+      - "5001:5000"
+    volumes:
+      - .:/app
+    depends_on:
+      - my-database
+
+  my-database:
+    image: redis:latest
